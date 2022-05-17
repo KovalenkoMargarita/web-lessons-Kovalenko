@@ -63,56 +63,56 @@
 		 <option value="3">Магазин 5</option>
         </select>
         <div class="form-check">
-          <input class="form-check-input" type="checkbox">
+          <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
           <label class="form-check-label" for="flexCheckDefault">
           В наличии
           </label>
         </div>
 		<div class="form-check">
-		  <input class="form-check-input" type="checkbox">
+		  <input class="form-check-input" type="checkbox" value="" id="flexCheckChecked" checked>
           <label class="form-check-label" for="flexCheckChecked">
           Под заказ: Сегодня
           </label>
         </div>
 		<div class="form-check">
-		  <input class="form-check-input" type="checkbox">
+		  <input class="form-check-input" type="checkbox" value="" id="flexCheckChecked" checked>
           <label class="form-check-label" for="flexCheckChecked">
           Под заказ: Завтра
           </label>
         </div>
 		<div class="form-check">
-		  <input class="form-check-input" type="checkbox">
+		  <input class="form-check-input" type="checkbox" value="" id="flexCheckChecked" checked>
           <label class="form-check-label" for="flexCheckChecked">
           Под заказ: Позже
           </label>
         </div>
 		<div class="form-check">
-		  <input class="form-check-input" type="checkbox">
+		  <input class="form-check-input" type="checkbox" value="" id="flexCheckChecked" checked>
           <label class="form-check-label" for="flexCheckChecked">
           Отсутствующие в продаже
           </label>
         </div>
 		<h5 class="p-1 my-3">Рейтинг</h5>
 	    <div class="form-check">
-		  <input class="form-check-input" type="checkbox">
+		  <input class="form-check-input" type="checkbox" value="" id="flexCheckChecked" checked>
           <label class="form-check-label" for="flexCheckChecked">
           Рейтинг 1
           </label>
         </div>
 		<div class="form-check">
-		  <input class="form-check-input" type="checkbox">
+		  <input class="form-check-input" type="checkbox" value="" id="flexCheckChecked" checked>
           <label class="form-check-label" for="flexCheckChecked">
           Рейтинг 2
           </label>
         </div>
 		<div class="form-check">
-		  <input class="form-check-input" type="checkbox">
+		  <input class="form-check-input" type="checkbox" value="" id="flexCheckChecked" checked>
           <label class="form-check-label" for="flexCheckChecked">
           Рейтинг 3
           </label>
         </div>
 		<div class="form-check">
-		  <input class="form-check-input" type="checkbox">
+		  <input class="form-check-input" type="checkbox" value="" id="flexCheckChecked" checked>
           <label class="form-check-label" for="flexCheckChecked">
           Рейтинг 4 и выше
           </label>
@@ -133,11 +133,11 @@
             <div class="col-md-4">
                 <div class="card" style="width: 18rem;">
                  <div class="card-header">
-				 <img src="image/tov7.jpg" class="card-img-top image-tovar">
+				 <img src="image/tov13.jpg" class="card-img-top image-tovar">
 				 </div>
 				  <div class="card-body">
-					<h5 class="card-title">Лежанка для питомцев</h5>
-					<p class="card-text">Очень удобная и мягкая лежанка.</p>
+					<h5 class="card-title">Whiskas</h5>
+					<p class="card-text">Кошачий корм с мясом индейки.</p>
 				  </div>
 				  <div class="card-footer">
 						<h5 class="text-muted">1500 Р</h5>
@@ -150,11 +150,11 @@
             <div class="col-md-4">
                 <div class="card" style="width: 18rem;">
                  <div class="card-header">
-				 <img src="image/tov8.jpg" class="card-img-top image-tovar">
+				 <img src="image/tov14.jpg" class="card-img-top image-tovar">
 				 </div>
 				  <div class="card-body">
-					<h5 class="card-title">Подстилка</h5>
-					<p class="card-text">Лучшая подстилка.
+					<h5 class="card-title">"Ем без проблем"</h5>
+					<p class="card-text">Паштет из говядины с сердцем.
 					</p>
 				  </div>
 				  <div class="card-footer">
@@ -168,11 +168,11 @@
             <div class="col-md-4">
                 <div class="card" style="width: 18rem;">
                  <div class="card-header">
-				 <img src="image/tov9.jpg" class="card-img-top image-tovar">
+				 <img src="image/tov15.jpg" class="card-img-top image-tovar">
 				 </div>
 				  <div class="card-body">
-					<h5 class="card-title">Пелёнка</h5>
-					<p class="card-text">Удобные пелёнки.</p>
+					<h5 class="card-title">Purina One</h5>
+					<p class="card-text">Кошачий корм</p>
 				  </div>
 				  <div class="card-footer">
 						<h5 class="text-muted">1500 Р</h5>
@@ -183,65 +183,11 @@
                 </div>
             </div>
           </div>
-
-            <div class="row">
-              <div class="col-md-4">
-                <div class="card" style="width: 18rem;">
-                 <div class="card-header">
-				 <img src="image/tov10.jpeg" class="card-img-top image-tovar">
-				 </div>
-				  <div class="card-body">
-					<h5 class="card-title">Spike's</h5>
-					<p class="card-text">Корм для ежей</p>
-				  </div>
-				  <div class="card-footer">
-						<h5 class="text-muted">1500 Р</h5>
-						<p class="card-text">В наличии: в 7 магазинах</p>
-						<p class="card-text">Доставим на дом: Сегодня</p>
-						<a href="#" class="btn btn-primary">Заказать</a>
-					</div>
-                </div>
-              </div>
-              <div class="col-md-4">
-                <div class="card" style="width: 18rem;">
-                 <div class="card-header">
-				 <img src="image/tov11.jpg" class="card-img-top image-tovar">
-				 </div>
-				  <div class="card-body">
-					<h5 class="card-title">Vitakraft</h5>
-					<p class="card-text">Корм для ежей.</p>
-				  </div>
-				  <div class="card-footer">
-						<h5 class="text-muted">1500 Р</h5>
-						<p class="card-text">В наличии: в 7 магазинах</p>
-						<p class="card-text">Доставим на дом: Сегодня</p>
-						<a href="#" class="btn btn-primary">Заказать</a>
-					</div>
-                </div>
-              </div>
-              <div class="col-md-4">
-                <div class="card" style="width: 18rem;">
-                 <div class="card-header">
-				 <img src="image/tov12.jpg" class="card-img-top image-tovar">
-				 </div>
-				  <div class="card-body">
-					<h5 class="card-title">Eukanuba</h5>
-					<p class="card-text">Собачая еда</p>
-				  </div>
-				  <div class="card-footer">
-						<h5 class="text-muted">1500 Р</h5>
-						<p class="card-text">В наличии: в 7 магазинах</p>
-						<p class="card-text">Доставим на дом: Сегодня</p>
-						<a href="#" class="btn btn-primary">Заказать</a>
-					</div>
-                </div>
-              </div>
-            </div>
 			
 			<nav class="my-3">
 			  <ul class="pagination">
 				<li class="page-item">
-				  <a class="page-link" href="katalog.html" aria-label="Previous">
+				  <a class="page-link" href="katalog2.html" aria-label="Previous">
 					<span aria-hidden="true">&laquo;</span>
 				  </a>
 				</li>
@@ -249,7 +195,7 @@
 				<li class="page-item"><a class="page-link" href="katalog2.html">2</a></li>
 				<li class="page-item"><a class="page-link" href="katalog3.html">3</a></li>
 				<li class="page-item">
-				  <a class="page-link" href="katalog3.html" aria-label="Next">
+				  <a class="page-link" href="katalog.html" aria-label="Next">
 					<span aria-hidden="true">&raquo;</span>
 				  </a>
 				</li>
