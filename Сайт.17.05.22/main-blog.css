@@ -1,0 +1,19 @@
+.blog-post {
+	margin-bottom: 4rem;
+}
+
+.blog-meta, .post-meta {
+	color:  #727272;
+}
+
+.image-tovar {
+	max-height: 300px;
+}
+
+.card {
+	height: 100%;
+}
+
+.card-header {
+	height: 100%;
+}
